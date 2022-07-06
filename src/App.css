@@ -1,0 +1,11 @@
+.add__house > button {
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+  }
+  .add__house > button:hover {
+    background-color: white;
+    color: #ff7779;
+  }
